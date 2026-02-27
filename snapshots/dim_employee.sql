@@ -1,14 +1,13 @@
 {% snapshot dim_employee %}
 
 {% set cols = [
-    'Id',
     'firstName',
     'lastName',
     'primaryWorkEmail',
     'HireDate',
     'RehireDate',
     'terminationdate',
-    'active_status'
+    'Active_Status'
 ] %}
 
 {{
