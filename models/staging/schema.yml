@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: sky_source
+    database: sky
+    schema: source
+    tables:
+      - name: employee_mock
+        description: "Raw employee data from the mock source system."
+        columns:
+          - name: Id
+            description: "Primary key of the raw table."

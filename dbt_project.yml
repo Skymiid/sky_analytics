@@ -36,7 +36,8 @@ clean-targets:         # directories to be removed by `dbt clean`
 # using the `{{ config(...) }}` macro.
 
 models:
-  my_new_project:
-    # Applies to all files under models/example/
+  my_new_project: # Replace this with your actual project name from line 1 of the file
+    +catalog: sky      # This forces Unity Catalog 'sky'
+    +materialized: table
     example:
       +materialized: table
