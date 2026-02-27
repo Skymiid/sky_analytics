@@ -9,7 +9,7 @@ with renamed as (
     terminationdate as termination_date,
     active_status
   from
-    sky.source.employee_mock
+    {{ source('sky_source', 'employee_mock') }}
 )
 select
   *
