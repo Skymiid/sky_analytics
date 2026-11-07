@@ -10,3 +10,5 @@ sources:
         columns:
           - name: Id
             description: "Primary key of the raw table."
+      - name: usgs__earthquake
+        description: "Raw earquake data from usgs"
