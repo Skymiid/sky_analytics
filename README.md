@@ -4,7 +4,7 @@
 
 📍 Parkland, FL | ✉️ midler.cemoin@gmail.com | [LinkedIn](https://www.linkedin.com/in/midler-cemoin)
 
-> 💡 *Currently building enterprise data and AI systems at Modernizing Medicine[cite: 3]. Using this space to build, experiment, and collaborate with peers on cloud data infrastructure and AI pipelines.*
+> 💡 *Currently building enterprise data and AI systems at Modernizing Medicine. Using this space to build, experiment, and collaborate with peers on cloud data infrastructure and AI pipelines.*
 
 ---
 
