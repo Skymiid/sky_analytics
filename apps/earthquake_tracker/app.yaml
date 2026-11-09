@@ -1,0 +1,9 @@
+command: ["streamlit", "run", "app.py"]
+
+env:
+  - name: "DATABRICKS_WAREHOUSE_ID"
+    value: "83023a23c32a59d8"
+  - name: "CATALOG"
+    value: "sky"
+  - name: "SCHEMA"
+    value: "dbt_skymiid"
